@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: sikuli_without_springboot
+
+logging:
+  level:
+    org.springframework: WARN
+    com.jcabi.manifests.Manifests: WARN
