@@ -36,6 +36,18 @@
             <version>2.0.4</version>
         </dependency>
 
+        <dependency>
+            <groupId>net.java.dev.jna</groupId>
+            <artifactId>jna-platform</artifactId>
+            <version>5.4.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>net.java.dev.jna</groupId>
+            <artifactId>jna</artifactId>
+            <version>5.4.0</version>
+        </dependency>
+
         <!-- sikulix 1.1.2 works fine with Spring Boot -->
         <!--<dependency>
             <groupId>com.sikulix</groupId>
